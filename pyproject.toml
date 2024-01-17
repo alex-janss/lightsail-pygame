@@ -1,0 +1,8 @@
+[project]
+name = "lightsail_pygame"
+version = "1.0.0"
+description = "Python game, sailships sailing around in wind"
+requires-python = ">=3.8"
+dependencies = [
+    "pygame",
+]
